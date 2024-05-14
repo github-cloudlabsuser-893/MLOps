@@ -1,6 +1,6 @@
 Ciao Pippo
 questo è un nuovo file creato su GitHub
-Ci faccio una modofica
+Ci faccio una modifica
 e anche un'altra
 e un'altra ancora :)
 
